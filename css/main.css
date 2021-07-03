@@ -1,0 +1,38 @@
+.blog {
+  color: blue;
+  background-color: rgb(67, 201, 241);
+  border: 2px solid rgb(69, 192, 69);
+  border-radius: 40px;
+  margin: 20px 200px;
+  /* margin-left: 200px; */
+  padding: 20px 100px;
+  width: auto;
+  height: 500px;
+  width: 800px;
+}
+#heading {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#author-name {
+  color: #c02323;
+  font-weight: 600;
+}
+h1 {
+  color: rgb(252, 0, 126);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+p {
+  color: rgb(24, 32, 2);
+  text-align: justify;
+  /* width: 300px; */
+}
+.para {
+  margin-left: 50px;
+}
+small {
+  color: rgb(41, 87, 4);
+}
