@@ -36,3 +36,8 @@ p {
 small {
   color: rgb(41, 87, 4);
 }
+img {
+  height: 200px;
+  width: 250px;
+  margin-left: 250px;
+}
